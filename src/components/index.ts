@@ -1,4 +1,7 @@
+export * from './Header/Header';
 export * from './Theme/ThemeProvider';
+export * from './Theme/ThemeToggle';
+export * from './User/UserMenu';
 export * from './ui/alert-dialog';
 export * from './ui/avatar';
 export * from './ui/badge';
@@ -7,6 +10,7 @@ export * from './ui/calendar';
 export * from './ui/card';
 export * from './ui/chart';
 export * from './ui/checkbox';
+export * from './ui/dropdown-menu';
 export * from './ui/hover-card';
 export * from './ui/input';
 export * from './ui/popover';
